@@ -1,0 +1,40 @@
+body {
+    font-family: 'Adamina';font-size: 12px;
+}
+.mainTable{
+    width: 100%;
+    border:none;    
+    border-spacing: 0px;
+    }
+.leftColumn{
+    width: 25%;
+    background-color: rgb(215, 245, 215);
+    border:none;
+}
+.rightColumn{
+    width: 75%;
+}
+h1{
+   width:100%;
+    text-align: center;
+}
+.rightColumn p, li, h2, h5, table, a{
+    margin-left: 30px;
+}
+#imagePlace{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+#leftContent{
+     vertical-align: top;
+}
+h5{
+    margin-block-end: 0em;
+}
+p{
+    text-align: justify;
+}
+hr{
+    width: 80%;
+}
